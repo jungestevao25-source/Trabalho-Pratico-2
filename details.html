@@ -20,10 +20,14 @@
 
                 <div class="col-12 col-md-9 text-center text-md-end">
                     <h1 class="titulo-principal mb-2">Detalhes do Item</h1>
+                    <p id="user-greeting" class="mb-2 text-warning small"></p>
                     <nav class="d-flex justify-content-center justify-content-md-end gap-2 flex-wrap" aria-label="Menu de navegação">
                         <a class="btn btn-dark btn-sm border border-warning text-warning" href="index.html">Início</a>
                         <a class="btn btn-dark btn-sm border border-warning text-warning" href="index.html#destaques">Destaques</a>
                         <a class="btn btn-dark btn-sm border border-warning text-warning" href="index.html#catalogo">Cursos</a>
+                        <a id="nav-admin-item" class="btn btn-dark btn-sm border border-warning text-warning d-none" href="cadastro_itens.html">Cadastro</a>
+                        <a id="nav-favoritos-item" class="btn btn-dark btn-sm border border-warning text-warning d-none" href="favoritos.html">Favoritos</a>
+                        <a id="auth-action-link" class="btn btn-warning btn-sm fw-semibold" href="login.html">Login</a>
                     </nav>
                 </div>
             </div>
@@ -38,6 +42,7 @@
         </div>
     </footer>
 
+    <script src="assets/js/app.js"></script>
     <script src="assets/js/details.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 </body>

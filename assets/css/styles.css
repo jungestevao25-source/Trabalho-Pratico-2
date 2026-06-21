@@ -35,6 +35,33 @@
     min-height: 1px;
 }
 
+.btn-favorito {
+    min-width: 42px;
+    border: 1px solid rgba(224, 187, 75, 0.6);
+    color: #f6e6ad;
+    background: rgba(224, 187, 75, 0.1);
+    font-size: 1.15rem;
+    line-height: 1;
+}
+
+.btn-favorito:hover {
+    background: rgba(224, 187, 75, 0.2);
+    color: #fff4cc;
+}
+
+.btn-favorito.favorito-ativo {
+    color: #ff7272;
+    border-color: rgba(255, 114, 114, 0.65);
+    background: rgba(255, 114, 114, 0.13);
+}
+
+.comentario-item {
+    padding: 0.85rem 1rem;
+    border: 1px solid rgba(224, 187, 75, 0.24);
+    border-radius: 0.8rem;
+    background: rgba(255, 255, 255, 0.02);
+}
+
 @media (max-width: 768px) {
     .mensagem-vazia {
         text-align: center;
