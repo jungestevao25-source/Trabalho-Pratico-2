@@ -1,0 +1,204 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "titulo": "Violão Essencial",
+      "descricaoCurta": "Comece do zero com acordes básicos, ritmo e prática guiada.",
+      "descricaoCompleta": "Curso pensado para adultos que querem aprender violão com uma rotina possível. As aulas combinam repertório simples, exercícios objetivos e acompanhamento próximo para acelerar a confiança musical.",
+      "imagem": "assets/.img/Professor-1.png",
+      "categoria": "Iniciação",
+      "preco": "R$ 149,90",
+      "tags": ["acordes", "ritmo", "iniciante"],
+      "destaque": true,
+      "nivel": "Iniciante",
+      "modalidade": "Presencial",
+      "duracao": "8 semanas",
+      "instrutor": "Professor Lucas"
+    },
+    {
+      "id": 2,
+      "titulo": "Piano Acolhedor",
+      "descricaoCurta": "Aprenda teclado e piano com repertório adaptado ao seu ritmo.",
+      "descricaoCompleta": "Aulas progressivas para desenvolver coordenação, leitura musical e interpretação sem perder o prazer de tocar. O conteúdo é ajustado à realidade de quem estuda depois do trabalho ou da faculdade.",
+      "imagem": "assets/.img/Professor-2.png",
+      "categoria": "Iniciação",
+      "preco": "R$ 169,90",
+      "tags": ["teclado", "coordenação", "repertório"],
+      "destaque": true,
+      "nivel": "Iniciante",
+      "modalidade": "Presencial",
+      "duracao": "10 semanas",
+      "instrutor": "Professora Maria"
+    },
+    {
+      "id": 3,
+      "titulo": "Ukulele Descomplicado",
+      "descricaoCurta": "Uma trilha leve para tocar músicas em pouco tempo.",
+      "descricaoCompleta": "Curso direto e dinâmico para quem quer evoluir rápido com repertório popular, batidas essenciais e prática orientada. Ideal para criar um hábito musical sem sobrecarga.",
+      "imagem": "assets/.img/Preludio-logo-grande.jpg",
+      "categoria": "Online",
+      "preco": "R$ 99,90",
+      "tags": ["prática rápida", "batidas", "repertório popular"],
+      "destaque": false,
+      "nivel": "Iniciante",
+      "modalidade": "Online",
+      "duracao": "6 semanas",
+      "instrutor": "Professor Lucas"
+    },
+    {
+      "id": 4,
+      "titulo": "Violino Expressivo",
+      "descricaoCurta": "Evolua postura, afinação e repertório com orientação técnica.",
+      "descricaoCompleta": "A proposta combina exercícios técnicos, leitura aplicada e desenvolvimento expressivo. O curso foi pensado para adultos que buscam consistência e evolução segura no instrumento.",
+      "imagem": "assets/.img/Sala-de-Aula.jpg",
+      "categoria": "Intermediário",
+      "preco": "R$ 189,90",
+      "tags": ["afinação", "postura", "interpretação"],
+      "destaque": true,
+      "nivel": "Intermediário",
+      "modalidade": "Presencial",
+      "duracao": "10 semanas",
+      "instrutor": "Professora Maria"
+    },
+    {
+      "id": 5,
+      "titulo": "Teoria e Harmonia na Prática",
+      "descricaoCurta": "Amplie leitura, ritmo e compreensão harmônica.",
+      "descricaoCompleta": "Curso complementar para qualquer instrumento, com atividades de percepção, campo harmônico e aplicação prática em músicas reais. Serve como base para criação, improviso e estudo autônomo.",
+      "imagem": "assets/.img/Professor-1.png",
+      "categoria": "Teoria Musical",
+      "preco": "R$ 119,90",
+      "tags": ["harmonia", "leitura", "percepção"],
+      "destaque": false,
+      "nivel": "Todos os níveis",
+      "modalidade": "Híbrido",
+      "duracao": "6 semanas",
+      "instrutor": "Equipe Prelúdio"
+    },
+    {
+      "id": 6,
+      "titulo": "Treino de Ritmo e Pulsação",
+      "descricaoCurta": "Desenvolva precisão rítmica com exercícios práticos.",
+      "descricaoCompleta": "Programa focado em pulsação, divisão rítmica e leitura aplicada. O aluno pratica com exemplos musicais curtos e recebe orientação para manter constância entre as aulas.",
+      "imagem": "assets/.img/Professor-2.png",
+      "categoria": "Teoria Musical",
+      "preco": "R$ 109,90",
+      "tags": ["pulso", "metrônomo", "coordenação"],
+      "destaque": false,
+      "nivel": "Iniciante a Intermediário",
+      "modalidade": "Online",
+      "duracao": "5 semanas",
+      "instrutor": "Equipe Prelúdio"
+    },
+    {
+      "id": 7,
+      "titulo": "Mentoria VIP Prelúdio",
+      "descricaoCurta": "Plano intensivo com metas personalizadas e acompanhamento contínuo.",
+      "descricaoCompleta": "Mentoria com trilha sob medida, ajustes semanais e foco em objetivos pessoais. É a escolha ideal para quem quer um plano individual com prioridade e acompanhamento próximo.",
+      "imagem": "assets/.img/Preludio-logo-grande.jpg",
+      "categoria": "Premium",
+      "preco": "R$ 299,90",
+      "tags": ["personalizado", "metas", "acompanhamento"],
+      "destaque": true,
+      "nivel": "Personalizado",
+      "modalidade": "Híbrido",
+      "duracao": "12 semanas",
+      "instrutor": "Equipe Prelúdio"
+    },
+    {
+      "id": 8,
+      "titulo": "Voz e Interpretação",
+      "descricaoCurta": "Cuide da respiração, afinação e presença ao cantar.",
+      "descricaoCompleta": "Curso para quem quer cantar com mais segurança, entendendo apoio respiratório, projeção vocal e interpretação musical. As práticas são adaptadas ao repertório escolhido pelo aluno.",
+      "imagem": "assets/.img/Sala-de-Aula.jpg",
+      "categoria": "Intermediário",
+      "preco": "R$ 179,90",
+      "tags": ["vocal", "respiração", "afinação"],
+      "destaque": false,
+      "nivel": "Intermediário",
+      "modalidade": "Presencial",
+      "duracao": "8 semanas",
+      "instrutor": "Professora Maria"
+    },
+    {
+      "id": 9,
+      "titulo": "Percussão Criativa",
+      "descricaoCurta": "Explore coordenação e groove com instrumentos de percussão.",
+      "descricaoCompleta": "Uma proposta prática para desenvolver independência rítmica e criatividade. O conteúdo usa células simples e progressões de dificuldade para manter a evolução visível a cada encontro.",
+      "imagem": "assets/.img/Professor-1.png",
+      "categoria": "Online",
+      "preco": "R$ 129,90",
+      "tags": ["groove", "coordenação", "criatividade"],
+      "destaque": false,
+      "nivel": "Iniciante",
+      "modalidade": "Online",
+      "duracao": "7 semanas",
+      "instrutor": "Professor Lucas"
+    },
+    {
+      "id": 10,
+      "titulo": "Composição para Iniciantes",
+      "descricaoCurta": "Transforme ideias simples em pequenas músicas autorais.",
+      "descricaoCompleta": "Curso para organizar ideias melódicas, criar progressões simples e montar estruturas musicais curtas. O aluno sai com exercícios práticos para começar a compor com segurança.",
+      "imagem": "assets/.img/Professor-2.png",
+      "categoria": "Premium",
+      "preco": "R$ 219,90",
+      "tags": ["criação", "melodia", "autoria"],
+      "destaque": false,
+      "nivel": "Todos os níveis",
+      "modalidade": "Híbrido",
+      "duracao": "9 semanas",
+      "instrutor": "Equipe Prelúdio"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Iniciação",
+      "descricao": "Cursos para começar do zero e criar base técnica."
+    },
+    {
+      "id": 2,
+      "nome": "Intermediário",
+      "descricao": "Conteúdos para quem já toca e quer avançar."
+    },
+    {
+      "id": 3,
+      "nome": "Teoria Musical",
+      "descricao": "Aulas de leitura, percepção e harmonia."
+    },
+    {
+      "id": 4,
+      "nome": "Premium",
+      "descricao": "Mentorias e planos personalizados com foco intensivo."
+    },
+    {
+      "id": 5,
+      "nome": "Online",
+      "descricao": "Modalidades remotas com flexibilidade de horários."
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "autor": "Marina",
+      "texto": "Organização ótima para começar sem medo.",
+      "nota": 5
+    },
+    {
+      "id": 2,
+      "itemId": 4,
+      "autor": "João",
+      "texto": "A explicação técnica ficou bem clara.",
+      "nota": 4
+    },
+    {
+      "id": 3,
+      "itemId": 7,
+      "autor": "Aline",
+      "texto": "A mentoria personalizou exatamente o que eu precisava.",
+      "nota": 5
+    }
+  ]
+}

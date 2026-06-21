@@ -1,0 +1,42 @@
+@import url("style.css");
+
+.mensagem-vazia {
+    color: #f1c95f;
+    padding: 1rem;
+    margin: 0;
+    border: 1px dashed rgba(224, 187, 75, 0.45);
+    border-radius: 1rem;
+    background: rgba(194, 162, 57, 0.08);
+}
+
+.tag-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.4rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid rgba(194, 162, 57, 0.35);
+    color: #f6e6ad;
+    background: rgba(194, 162, 57, 0.08);
+    font-size: 0.9rem;
+}
+
+.detalhe-bloco .tag-chip {
+    margin-top: 0.15rem;
+}
+
+#detalhe-item .detalhe-bloco + .detalhe-bloco {
+    margin-top: 1.5rem;
+}
+
+#lista-itens,
+#sobre-autor,
+#detalhe-item {
+    min-height: 1px;
+}
+
+@media (max-width: 768px) {
+    .mensagem-vazia {
+        text-align: center;
+    }
+}
