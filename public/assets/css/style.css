@@ -223,6 +223,14 @@ img {
     .destaque-imagem {
         min-height: 220px;
     }
+
+    .detalhe-capa img {
+        min-height: 240px;
+    }
+
+    .foto-vinculada {
+        height: 200px;
+    }
 }
 
 @media (max-width: 480px) {
